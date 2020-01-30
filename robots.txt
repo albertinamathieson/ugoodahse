@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phahxeoru.liptrot.org/sitemap.xml
